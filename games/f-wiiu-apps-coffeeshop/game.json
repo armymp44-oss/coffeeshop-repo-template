@@ -1,0 +1,18 @@
+{
+  "name": "smashbros",
+  "icon": "\"https://githubusercontent.com\"",
+  "titleIds": [
+    "0005000010144F00"
+  ],
+  "mods": [
+    {
+      "id": "new-mod",
+      "name": "Knuckles",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "sunspirt",
+      "description": "This moveset has been long overdue, however it's finally complete (or as close to complete as possible) Knuckles is a fully unique moveset taken from project M with proper permissions. I want to thank everyone on our team for all the hard work we've put into this and thank the PMDT, Ishmael205, and BringoBrongo for their completed version of Knuckles aswell.",
+      "download": "https://gamebanana.com/mods/download/48777#FileInfo_403976"
+    }
+  ]
+}
